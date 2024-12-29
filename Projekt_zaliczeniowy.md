@@ -1,4 +1,4 @@
-# Moduł 8 - Wprowadzenie do programowania obiektowego.
+# Projekt zaliczeniowy
 
 **Wymagania projektu **
 
